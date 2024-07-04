@@ -1,4 +1,4 @@
-# AI Hand Gesture Volume Controller
+# AI Hand Gesture Volume Controller using Smart Phone Camera
 
 This project is an AI-based volume controller that uses hand gestures to increase or decrease the system volume. It utilizes the phone's camera to capture hand gestures and processes them using OpenCV and MediaPipe libraries.
 
