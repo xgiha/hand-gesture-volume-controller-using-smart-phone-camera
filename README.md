@@ -65,7 +65,7 @@ Follow these steps to set up and run the AI Hand Gesture Volume Controller proje
     - Ensure your phone is connected and DroidCam is running.
     - Run the Python script:
         ```sh
-        python hand_gesture_volume_controller.py
+        main.py
         ```
 
 Now, the AI Hand Gesture Volume Controller should be up and running, allowing you to control the volume using hand gestures detected by your phone's camera.
